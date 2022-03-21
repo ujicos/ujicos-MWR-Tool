@@ -1,6 +1,7 @@
 # ujicos-MWR-Tool
 
-[![Issues](https://img.shields.io/bitbucket/issues-raw/ujicos/ujicos-MWR-Tool](https://github.com/ujicos/ujicos-MWR-tool/issues)
+[![Issues](https://img.shields.io/bitbucket/issues-raw/ujicos/ujicos-MWR-Tool)](https://github.com/ujicos/ujicos-MWR-tool/issues)
+
 
 A tool made to enhance the player experience on the PC Steam build of COD: Modern Warfare Remastered
 
