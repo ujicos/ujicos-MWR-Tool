@@ -9,6 +9,6 @@ A tool made to enhance the player experience on the PC Steam build of COD: Moder
 
 
 # Usage
-Download the current up-to-date files and an injector of your choice, i recommend [Process Hacker 2](https://github.com/processhacker/processhacker/releases/download/v2.39/processhacker-2.39-setup.exe).
+Download the current up-to-date files from [here](https://github.com/ujicos/ujicos-MWR-Tool/releases) and an injector of your choice, i recommend [Process Hacker 2](https://github.com/processhacker/processhacker/releases/download/v2.39/processhacker-2.39-setup.exe).
 Once you have downloaded the DLL and an injector, simply inject the DLL into h1_mp64_ship.exe
 Once it is injected, click HOME to open the menu.
